@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Levels/Test11Backup.umap
+Content/Meshes/Grass_path/Textures/Forest_Surface/sesjcefb_8K_Albedo.uasset
+Content/Meshes/Grass_path/Textures/Forest_Surface/sesjcefb_8K_Normal.uasset
+Content/Meshes/Grass_path/Textures/Wild_Grass/sfknaeoa_8K_Albedo.uasset
+Content/Meshes/Grass_path/Textures/Wild_Grass/sfknaeoa_8K_Normal.uasset
+Content/Meshes/SM_Far_Trees.uasset
+Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset
+Content/Meshes/SolarOffice_2/SM_SolarFactory_Prop.uasset
+Content/Meshes/SM_Tree_01.uasset
